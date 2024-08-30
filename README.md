@@ -4,9 +4,9 @@ My Version of the board game Battleship. Player connects to another player on th
 
 I will admit, this is extremely messy code.  It was my first real project and I learned a lot while doing it, but it is very difficult to read.  I've actually cleaned it up quite a bit since I first made it, but it's still extremely difficult to follow.
 
-![Battleship](https://github.com/tmjonker/BattleShip-master/blob/master/Images/GameBoard.PNG)
-![Battleship](https://github.com/tmjonker/BattleShip-master/blob/master/Images/SettingUpPieces.PNG)
-![Battleship](https://github.com/tmjonker/BattleShip-master/blob/master/Images/GAMEPLAY.PNG)
+![Battleship](https://github.com/tmjonker8/Battleship/blob/master/Images/GameBoard.PNG)
+![Battleship](https://github.com/tmjonker8/Battleship/blob/master/Images/SettingUpPieces.PNG)
+![Battleship](https://github.com/tmjonker8/Battleship/blob/master/Images/GAMEPLAY.PNG)
 
 ## Getting Started
 
